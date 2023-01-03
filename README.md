@@ -11,7 +11,7 @@
 <div class="pb-4">&nbsp;</div>
 <h2>What is this?</h2>
 <article>
-<p>Skeld.net is the world's ONLY free to play public modded Among Us server. Ran by Arkatme and his amazing support staff, Skeld.net offers you endless hours of extra enjoyment if you have gotten bored of vanilla Among Us gameplay.</p>
+<p>Private among us server with mods avaliable soon.</p>
 </article>
 <br />
 <div>
